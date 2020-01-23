@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListMakananku</string>
+    <string name="food_description">Deskripsi</string>
+    <string name="food_name">Nama</string>
+</resources>
